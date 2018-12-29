@@ -4,8 +4,10 @@
 
 https://datascienceplus.com/strategies-to-speedup-r-code/
 
-### Missing Value Treatment
+### 2. Missing Value Treatment
 https://datascienceplus.com/missing-value-treatment/
 
-### Variable Selection/Feature Selection
+### 3. Variable Selection/Feature Selection
 http://rstatistics.net/variable-importance-of-predictors-that-contribute-most-significantly-to-a-response-variable-in-r/
+
+### 4. Image Analysis
