@@ -1,6 +1,6 @@
 # Code snippet/syntaxes for Data analaysis and Model building in R
 
-### Strategies to Speedup R Code
+### 1. Strategies to Speedup R Code
 
 https://datascienceplus.com/strategies-to-speedup-r-code/
 
