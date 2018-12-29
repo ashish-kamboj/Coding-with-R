@@ -1,4 +1,4 @@
-# Code snippet or syntaxes for Data analaysis or Model building in R
+# Code snippet/syntaxes for Data analaysis and Model building in R
 
 ### Strategies to Speedup R Code
 
