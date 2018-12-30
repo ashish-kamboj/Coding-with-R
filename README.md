@@ -12,4 +12,7 @@ https://datascienceplus.com/strategies-to-speedup-r-code/
 ### 4. Parallel Processing in R
 https://www.r-bloggers.com/implementing-parallel-processing-in-r/
 
-### 5. Image Analysis
+### 5. Saving multiple outputs of foreach loop
+https://stackoverflow.com/questions/19791609/saving-multiple-outputs-of-foreach-dopar-loop
+
+### 6. Image Analysis
