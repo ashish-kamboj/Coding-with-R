@@ -15,4 +15,7 @@ https://www.r-bloggers.com/implementing-parallel-processing-in-r/
 ### 5. Saving multiple outputs of foreach loop
 https://stackoverflow.com/questions/19791609/saving-multiple-outputs-of-foreach-dopar-loop
 
-### 6. Image Analysis
+### 6. How to build Ensemble model in R (Combination of different ML models)
+https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/
+
+### 7. Image Analysis
