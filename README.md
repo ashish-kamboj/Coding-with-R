@@ -27,4 +27,7 @@ https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-wi
 ### 8. Model building on Large Datasets
 https://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/
 
-### 9. Image Analysis
+### 9. ROC Curve explanation
+https://ashokharnal.wordpress.com/2014/03/14/a-very-simple-explanation-for-auc-or-area-under-the-roc-curve/
+
+### 10. Image Analysis
