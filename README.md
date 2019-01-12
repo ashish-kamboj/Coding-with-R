@@ -38,4 +38,4 @@ https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on
   - Run sudo **apt-get install libfftw3-dev** on the terminal (for dependencies related to fftwtools)
   - Then run **biocLite("EBImage")** on R console
 
-### 11. Image Analysis
+### 12. Image Analysis
