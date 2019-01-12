@@ -36,6 +36,7 @@ https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on
 ### 11. Install EBImage package on UNIX/Linus systems
   - https://bioc.ism.ac.jp/packages/2.4/bioc/vignettes/EBImage/inst/doc/EBImage-installation.pdf
   - Run **sudo apt-get install gtk2.0** command in terminal to install gtk2.0
+  - Run **apt install imagemagick-6.q16** command in the terminal
   - Run **sudo apt-get install libfftw3-dev** in the terminal (for dependencies related to fftwtools)
   - Run **sudo apt-get install libtiff5-dev** in the terminal
   - Then run **biocLite("EBImage")** on R console
