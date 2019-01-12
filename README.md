@@ -33,4 +33,9 @@ https://ashokharnal.wordpress.com/2014/03/14/a-very-simple-explanation-for-auc-o
 ### 10. Setting up R-Studio on google cloud
 https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on-google.html
 
+### 11. Install EBImage package on UNIX/Linus systems
+  - https://bioc.ism.ac.jp/packages/2.4/bioc/vignettes/EBImage/inst/doc/EBImage-installation.pdf
+  - Run sudo **apt-get install libfftw3-dev** on the terminal (for dependencies related to fftwtools)
+  - Then run **biocLite("EBImage")** on R console
+
 ### 11. Image Analysis
