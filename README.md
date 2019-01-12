@@ -30,4 +30,7 @@ https://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-d
 ### 9. ROC Curve explanation
 https://ashokharnal.wordpress.com/2014/03/14/a-very-simple-explanation-for-auc-or-area-under-the-roc-curve/
 
-### 10. Image Analysis
+### 10. Setting up R-Studio on google cloud
+https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on-google.html
+
+### 11. Image Analysis
