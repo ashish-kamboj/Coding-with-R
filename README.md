@@ -39,6 +39,7 @@ https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on
   - Run **apt install imagemagick-6.q16** command in the terminal
   - Run **sudo apt-get install libfftw3-dev** in the terminal (for dependencies related to fftwtools)
   - Run **sudo apt-get install libtiff5-dev** in the terminal
+  - Optinal to install incase we get an error for RCurl **sudo apt-get install libcurl4-openssl-dev libxml2-dev**
   - Then run **biocLite("EBImage")** on R console
 
 ### 12. Image Analysis
