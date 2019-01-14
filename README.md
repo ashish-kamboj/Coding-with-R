@@ -32,7 +32,7 @@ https://ashokharnal.wordpress.com/2014/03/14/a-very-simple-explanation-for-auc-o
 ### 10. Setting up R-Studio on google cloud
 https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on-google.html
 
-### 11. Install EBImage package [For Image Analysis] on UNIX/Linus systems
+### 11. Install EBImage package [For Image Analysis] on UNIX/Linux systems
   - https://bioc.ism.ac.jp/packages/2.4/bioc/vignettes/EBImage/inst/doc/EBImage-installation.pdf
   - Run **sudo apt-get install gtk2.0** command in terminal to install gtk2.0
   - Run **apt install imagemagick-6.q16** command in the terminal
