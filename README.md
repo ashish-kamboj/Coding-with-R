@@ -16,10 +16,9 @@ https://www.r-bloggers.com/implementing-parallel-processing-in-r/
 https://stackoverflow.com/questions/19791609/saving-multiple-outputs-of-foreach-dopar-loop
 
 ### 6. Missing value imputation
-https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4
-https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
-
-http://r-statistics.co/Missing-Value-Treatment-With-R.html
+  - https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4
+  - https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
+  - http://r-statistics.co/Missing-Value-Treatment-With-R.html
 
 ### 7. How to build Ensemble model in R (Combination of different ML models)
 https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/
