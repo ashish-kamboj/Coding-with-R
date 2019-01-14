@@ -42,4 +42,9 @@ https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on
   - Optinal to install incase we get an error for RCurl **sudo apt-get install libcurl4-openssl-dev libxml2-dev**
   - Then run **biocLite("EBImage")** on R console
 
-### 12. Image Analysis
+### 12. XGBoost in R (Model Building, Parameter tuning and Feature Importance).
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
+https://www.kaggle.com/pelkoja/visual-xgboost-tuning-with-caret/report
+https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+
+### 13. Image Analysis
