@@ -46,4 +46,7 @@ https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on
   - https://www.kaggle.com/pelkoja/visual-xgboost-tuning-with-caret/report
   - https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
 
+### Text Mining Step-by-Step in R
+https://www.hackerearth.com/ja/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/
+
 ### 13. Image Analysis
