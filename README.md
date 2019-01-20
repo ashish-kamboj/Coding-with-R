@@ -47,6 +47,9 @@ https://yuhuisdatascienceblog.blogspot.com/2017/07/setting-up-r-studio-server-on
   - https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
 
 ### 13. Text Mining Step-by-Step in R
-https://www.hackerearth.com/ja/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/
+  - https://www.hackerearth.com/ja/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/
+  - Other supporting links-
+    - https://www.springboard.com/blog/machine-learning-with-r/
+    - https://fderyckel.github.io/2016-12-07-Texts_Classification_in_R/
 
 ### 14. Image Analysis
