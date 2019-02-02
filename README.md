@@ -51,5 +51,9 @@
   - Other supporting links-
     - https://www.springboard.com/blog/machine-learning-with-r/
     - https://fderyckel.github.io/2016-12-07-Texts_Classification_in_R/
+    
+### 14.
+  - https://www.slideshare.net/bazad/big-data-clustering-algorithms-and-strategies
+  - https://www.kaggle.com/rahultej/k-prototypes-correlation-randomforest
 
-### 14. Image Analysis
+### 15. Image Analysis
