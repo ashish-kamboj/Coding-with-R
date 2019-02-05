@@ -1,4 +1,4 @@
-### Questions
+## Questions
 
 - Difference between Statistical Modeling and Machine Learning
 - What is normal distribution
