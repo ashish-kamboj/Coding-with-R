@@ -52,7 +52,7 @@
     - https://www.springboard.com/blog/machine-learning-with-r/
     - https://fderyckel.github.io/2016-12-07-Texts_Classification_in_R/
     
-### 14.
+### 14. Clustering for mixed data [Categorical and Continuous variables ] using k-prototype
   - https://www.slideshare.net/bazad/big-data-clustering-algorithms-and-strategies
   - https://www.kaggle.com/rahultej/k-prototypes-correlation-randomforest
 
