@@ -14,7 +14,10 @@
 - **Effect of Multicollinearity**
   - Moderate multicollinearity may not be problematic. However, severe multicollinearity is a problem because it can increase the variance of the coefficient estimates and make the estimates very sensitive to minor changes in the model. The result is that the coefficient estimates are unstable and difficult to interpret. Multicollinearity saps the statistical power of the analysis, can cause the coefficients to switch signs, and makes it more difficult to specify the correct model.
   
-- How PCA take cares of multicollinearity
+- **How PCA take cares of multicollinearity**
+  - As Principle components are orthogonal to ech other which helps in to get rid of multicollineraity
+  
+- Why the Principal components are othogonal to each other?
 - Difference between PCA and Random Forest for feature selection.
 - How to explain gain and lift to business person?
 - How you will define Precision
