@@ -5,6 +5,7 @@
 - Difference between Z-test, T-test and F-test
 - Why do we take sum of square in Linear Regression?
 - Difference betweence correlation and VIF
+- If two variables are correlated, How to decide which one to remove?
 - How does Variance Inflation Factor(VIF) Work?
 - How does Principal Component Analysis(PCA) works?
 - How PCA take cares of multicollinearity
