@@ -5,8 +5,8 @@
 - Difference between Z-test, T-test and F-test
 - Why do we take sum of square in Linear Regression?
 - Difference betweence correlation and VIF
-- How does VIF Work?
-- How does PCA works?
+- How does Variance Inflation Factor(VIF) Work?
+- How does Principal Component Analysis(PCA) works?
 - How PCA take cares of multicollinearity
 - Difference between PCA and Random Forest for feature selection.
 - How to explain gain and lift to business person?
