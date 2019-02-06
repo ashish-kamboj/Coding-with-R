@@ -6,7 +6,10 @@
 - Why do we take sum of square in Linear Regression?
 - Difference betweence correlation and VIF
 - If two variables are correlated, How to decide which one to remove?
-- How does Variance Inflation Factor(VIF) Work?
+
+- **How does Variance Inflation Factor(VIF) Work?**
+  - Regress each of the independent varables w.r.t rest of the independent variables in the model and calculate the R2 for each. Using R2 we can calculate the VIF of each variable i.e. VIF=1/(1-R2). Higher R2 value of independent variable corresponds to the high correlation, means the variable need to be removed.
+  
 - How does Principal Component Analysis(PCA) works?
 - **Effect of Multicollinearity**
   - Moderate multicollinearity may not be problematic. However, severe multicollinearity is a problem because it can increase the variance of the coefficient estimates and make the estimates very sensitive to minor changes in the model. The result is that the coefficient estimates are unstable and difficult to interpret. Multicollinearity saps the statistical power of the analysis, can cause the coefficients to switch signs, and makes it more difficult to specify the correct model.
