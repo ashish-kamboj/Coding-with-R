@@ -8,14 +8,14 @@
 - If two variables are correlated, How to decide which one to remove?
 - How does Variance Inflation Factor(VIF) Work?
 - How does Principal Component Analysis(PCA) works?
-- Effect of Multicollinearity
+- **Effect of Multicollinearity**
   - Moderate multicollinearity may not be problematic. However, severe multicollinearity is a problem because it can increase the variance of the coefficient estimates and make the estimates very sensitive to minor changes in the model. The result is that the coefficient estimates are unstable and difficult to interpret. Multicollinearity saps the statistical power of the analysis, can cause the coefficients to switch signs, and makes it more difficult to specify the correct model.
   
 - How PCA take cares of multicollinearity
 - Difference between PCA and Random Forest for feature selection.
 - How to explain gain and lift to business person?
 - How you will define Precision
-- What is Gradient Descent
+- **What is Gradient Descent**
   - Gradient descent is used to minimize the cost function or any other function
 
 - How to perform clustering on large dataset?
