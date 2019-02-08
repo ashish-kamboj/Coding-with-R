@@ -19,7 +19,7 @@
   - As Principle components are orthogonal to each other which helps in to get rid of multicollineraity
   
 - Why the Principal components are othogonal to each other?
-- Though each principal components are orthogonal (i.e. prevents multicollinearity) but still in principal components we have correlated values. Do we not have to remove those?
+- Though each principal components are orthogonal (i.e. prevents multicollinearity) but still in principal components we have correlated variables. Do we not have to remove those?
 - Difference between PCA and Random Forest for feature selection.
 - How to explain gain and lift to business person?
 - How you will define Precision
