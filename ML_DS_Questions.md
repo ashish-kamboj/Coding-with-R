@@ -23,11 +23,14 @@
 - Difference between PCA and Random Forest for feature selection.
 - How to explain gain and lift to business person?
 - How you will define Precision
+- What are the shortcomings of ROC curve?
 - **What is Gradient Descent**
   - Gradient descent is used to minimize the cost function or any other function
 
 - How to perform clustering on large dataset?
 - How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
+- Hyrid recommendation system
+- How to measure the performance of recommendation system?
 
 <br></br>
 - How to read multiple files in one command in R?
