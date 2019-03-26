@@ -1,7 +1,7 @@
 ## Questions
 
 - Difference between Statistical Modeling and Machine Learning
-- What is selection Bias?
+- **What is selection Bias?**
   - Selection Bias is a clinical trials is a result of the sample group not representing the entire target population.
 - What is normal distribution
 - Difference between Z-test, T-test and F-test
@@ -35,7 +35,10 @@
 
 - How to explain gain and lift to business person?
 - How you will define Precision
-- What are the shortcomings of ROC curve?
+- **What are the shortcomings of ROC AUC curve?**
+  - https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve
+  - https://stats.stackexchange.com/questions/193138/roc-curve-drawbacks
+
 - **When to use Logistic Regression vs SVM? or Differences between Logistic Regression and SVM**
   - Logistic loss diverges faster than hinge loss. So, in general, it will be more sensitive to outliers.
   - Logistic loss does not go to zero even if the point is classified sufficiently confidently. This might lead to minor degradation in accuracy.
