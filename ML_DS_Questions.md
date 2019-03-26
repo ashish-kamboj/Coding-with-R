@@ -29,10 +29,8 @@
       - It shrinks the parameters, therefore it is mostly used to prevent multicollinearity.
       - It reduces the model complexity by coefficient shrinkage.
       - It uses L2 regularization technique. (which I will discussed later in this article)
-      - Cost function for Ridge regression
-      https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/06/05213609/snip14.png
     - Lasso Regression(L1 Regularization)
-      - 
+      - It is generally used when we have more number of features, because it automatically does feature selection.
 
 - How to explain gain and lift to business person?
 - How you will define Precision
