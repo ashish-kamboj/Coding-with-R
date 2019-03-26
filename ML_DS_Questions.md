@@ -35,6 +35,8 @@
 
 - How to explain gain and lift to business person?
 - How you will define Precision
+- Which technique is good for class imbalance problem, sampling techniques or assigning weights to classes?
+
 - **What are the shortcomings of ROC AUC curve?**
   - https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve
   - https://stats.stackexchange.com/questions/193138/roc-curve-drawbacks
