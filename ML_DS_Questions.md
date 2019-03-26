@@ -22,11 +22,17 @@
 - Though each principal components are orthogonal (i.e. prevents multicollinearity) but still in principal components we have correlated variables. Do we not have to remove those?
 - Difference between PCA and Random Forest for feature selection.
 
-- **How can we overcome Overfitting?**
+- **How can we overcome Overfitting in a Regression Model?**
   - Reduce the model complexity
   - Regularization
-    - Ridge(L2 Regularization)
-    - Lasso(L1 Regularization)
+    - Ridge Regression(L2 Regularization)
+      - It shrinks the parameters, therefore it is mostly used to prevent multicollinearity.
+      - It reduces the model complexity by coefficient shrinkage.
+      - It uses L2 regularization technique. (which I will discussed later in this article)
+      - Cost function for Ridge regression
+      https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/06/05213609/snip14.png
+    - Lasso Regression(L1 Regularization)
+      - 
 
 - How to explain gain and lift to business person?
 - How you will define Precision
