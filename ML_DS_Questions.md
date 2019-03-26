@@ -24,7 +24,7 @@
 - How to explain gain and lift to business person?
 - How you will define Precision
 - What are the shortcomings of ROC curve?
-- When to use Logistic Regression vs SVM or Differences between Logistic Regression and SVM
+- **When to use Logistic Regression vs SVM? or Differences between Logistic Regression and SVM**
   - Logistic loss diverges faster than hinge loss. So, in general, it will be more sensitive to outliers.
   - Logistic loss does not go to zero even if the point is classified sufficiently confidently. This might lead to minor degradation in accuracy.
   - SVM try to maximize the margin between the closest support vectors while LR the posterior class probability. Thus, SVM find a solution which is as fare as possible for the two categories while LR has not this property.
