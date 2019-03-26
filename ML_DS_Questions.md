@@ -21,6 +21,13 @@
 - Why the Principal components are othogonal to each other?
 - Though each principal components are orthogonal (i.e. prevents multicollinearity) but still in principal components we have correlated variables. Do we not have to remove those?
 - Difference between PCA and Random Forest for feature selection.
+
+- **How can we overcome Overfitting?**
+  - Reduce the model complexity
+  - Regularization
+    - Ridge(L2 Regularization)
+    - Lasso(L1 Regularization)
+
 - How to explain gain and lift to business person?
 - How you will define Precision
 - What are the shortcomings of ROC curve?
