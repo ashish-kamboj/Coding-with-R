@@ -1,6 +1,8 @@
 ## Questions
 
 - Difference between Statistical Modeling and Machine Learning
+- What is selection Bias?
+  - Selection Bias is a clinical trials is a result of the sample group not representing the entire target population.
 - What is normal distribution
 - Difference between Z-test, T-test and F-test
 - Why do we take sum of square in Linear Regression?
