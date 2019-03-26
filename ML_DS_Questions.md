@@ -25,11 +25,10 @@
 - **How can we overcome Overfitting in a Regression Model?**
   - Reduce the model complexity
   - Regularization
-    - Ridge Regression(L2 Regularization)
+    - **Ridge Regression(L2 Regularization)**
       - It shrinks the parameters, therefore it is mostly used to prevent multicollinearity.
       - It reduces the model complexity by coefficient shrinkage.
-      - It uses L2 regularization technique. (which I will discussed later in this article)
-    - Lasso Regression(L1 Regularization)
+    - **Lasso Regression(L1 Regularization)**
       - It is generally used when we have more number of features, because it automatically does feature selection.
 
 - How to explain gain and lift to business person?
