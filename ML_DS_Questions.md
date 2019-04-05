@@ -52,9 +52,12 @@
   - SVM tries to find the widest possible separating margin, while Logistic Regression optimizes the log likelihood function, with probabilities modeled by the sigmoid function.
   - SVM extends by using kernel tricks, transforming datasets into rich features space, so that complex problems can be still dealt with in the same “linear” fashion in the lifted hyper space.
 
+- Working of multiclass classification
+
 - **What is Gradient Descent**
   - Gradient descent is used to minimize the cost function or any other function
-
+  
+- Working of Gradient Descent
 - How to perform clustering on large dataset?
 - How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
 - Hyrid recommendation system
