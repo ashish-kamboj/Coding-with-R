@@ -5,4 +5,4 @@
   - **iml**: An R package for Interpretable Machine Learning
   
 - Theoretical understanding of machine learning
-  - The Elements of Statistical Learning [Link] (https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+  - The Elements of Statistical Learning [Link](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
