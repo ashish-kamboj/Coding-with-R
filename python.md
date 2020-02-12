@@ -5,3 +5,8 @@
 
 ### 2. Building a Simple Chatbot from Scratch in Python (using NLTK)
 - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+
+### 3. 10 Simple hacks to speed up your Data Analysis in Python
+- https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
+
+
