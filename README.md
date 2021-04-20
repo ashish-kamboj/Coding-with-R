@@ -2,6 +2,7 @@
 
 ### 1. Missing Value Treatment
   - https://datascienceplus.com/missing-value-treatment/
+  - http://www.stat.columbia.edu/~gelman/arm/missing.pdf
 
 ### 2. Variable Selection/Feature Selection
   - http://rstatistics.net/variable-importance-of-predictors-that-contribute-most-significantly-to-a-response-variable-in-r/
