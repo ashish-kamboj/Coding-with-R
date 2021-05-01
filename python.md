@@ -9,4 +9,7 @@
 ### 3. 10 Simple hacks to speed up your Data Analysis in Python
 - https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
 
+### 4. Working with missing data in Python
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html
+
 
