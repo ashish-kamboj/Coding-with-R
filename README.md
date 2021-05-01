@@ -57,4 +57,5 @@
   - https://www.slideshare.net/bazad/big-data-clustering-algorithms-and-strategies
   - https://www.kaggle.com/rahultej/k-prototypes-correlation-randomforest
 
-### 15. Image Analysis
+### 15. Why Outlier treatment is required
+  - http://r-statistics.co/Outlier-Treatment-With-R.html
