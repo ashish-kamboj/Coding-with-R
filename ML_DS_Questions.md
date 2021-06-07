@@ -8,6 +8,9 @@
   - **Covariance** - indicates the direction of the linear relationship between variable
   - **Correlation** - measures both the strength and direction of the linear relationship between two variables
   - correlation values are standardized whereas, covariance values are not
+  - Covariance is affected by the change in scale, i.e. if all the value of one variable is multiplied by a constant and all the value of another variable are multiplied, by a similar or different constant, then the covariance is changed. As against this, correlation is not influenced by the change in scale.
+  - Correlation is dimensionless, i.e. it is a unit-free measure of the relationship between variables. Unlike covariance, where the value is obtained by the product of the units of the two variables.
+
 - Difference between Z-test, T-test and F-test
 - Why do we take sum of square in Linear Regression?
 - Difference betweence correlation and VIF
