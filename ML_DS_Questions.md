@@ -35,7 +35,26 @@
 
 - How to explain gain and lift to business person?
 - How you will define Precision
-- Which technique is good for class imbalance problem, sampling techniques or assigning weights to classes?
+- How to handle class imbalance problem
+  - Get more data
+  - Try different performance matrix
+    - Confusion Matrix
+    - Precision
+    - Recall
+    - F1-Score
+    - Kappa
+    - Area Under ROC curve
+  - Data Resampling
+    - Undersampling
+    - Oversampling
+  - Generate synthetic data
+  - Use different algorithms for classification
+  - Try Penalized models
+    - penalized-SVM
+    - penalized LDA
+  - Try different techniques
+    - Anomaly detection
+    - Change detection
 
 - **What are the shortcomings of ROC AUC curve?**
   - https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve
