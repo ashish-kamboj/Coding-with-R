@@ -35,7 +35,7 @@
 
 - How to explain gain and lift to business person?
 - How you will define Precision
-- How to handle class imbalance problem
+- **How to handle class imbalance problem?**
   - Get more data
   - Try different performance matrix
     - Confusion Matrix
