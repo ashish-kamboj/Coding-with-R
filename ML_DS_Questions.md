@@ -4,6 +4,10 @@
 - **What is selection Bias?**
   - Selection Bias is a clinical trials is a result of the sample group not representing the entire target population.
 - What is normal distribution
+- **Covariance Vs Correlation**
+  - **Covariance** - indicates the direction of the linear relationship between variable
+  - **Correlation** - measures both the strength and direction of the linear relationship between two variables
+  - correlation values are standardized whereas, covariance values are not
 - Difference between Z-test, T-test and F-test
 - Why do we take sum of square in Linear Regression?
 - Difference betweence correlation and VIF
