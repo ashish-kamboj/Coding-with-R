@@ -22,6 +22,9 @@
 - **Effect of Multicollinearity**
   - Moderate multicollinearity may not be problematic. However, severe multicollinearity is a problem because it can increase the variance of the coefficient estimates and make the estimates very sensitive to minor changes in the model. The result is that the coefficient estimates are unstable and difficult to interpret. Multicollinearity saps the statistical power of the analysis, can cause the coefficients to switch signs, and makes it more difficult to specify the correct model.
   
+- **What is PCA?**
+  - Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+ 
 - How does Principal Component Analysis(PCA) works?
   
 - **How PCA take cares of multicollinearity**
