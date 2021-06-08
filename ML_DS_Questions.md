@@ -28,7 +28,9 @@
 - How does Principal Component Analysis(PCA) works? [(here)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
   - Standardization - standardize the range of the continuous initial variables so that each one of them contributes equally to the analysis.
   - Covariance Matrix computation - to understand how the variables of the input data set are varying from the mean with respect to each other, or in other words, to see if there is any relationship between them. Because sometimes, variables are highly correlated in such a way that they contain redundant information. So, in order to identify these correlations, we compute the covariance matrix.
-  - Compute the 
+  - Compute the Eigenvectors and Eigenvalues of the covariance matrix to identify the principal components
+  - Feature vector
+  - Recast the data along the principal component axes
   
 - **How PCA take cares of multicollinearity**
   - As Principle components are orthogonal to each other which helps in to get rid of multicollineraity
