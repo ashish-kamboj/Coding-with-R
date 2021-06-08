@@ -25,7 +25,7 @@
 - **What is PCA?**
   - Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
  
-- How does Principal Component Analysis(PCA) works? [(here)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+- **How does Principal Component Analysis(PCA) works?** [(here)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
   - Standardization - standardize the range of the continuous initial variables so that each one of them contributes equally to the analysis.
   - Covariance Matrix computation - to understand how the variables of the input data set are varying from the mean with respect to each other, or in other words, to see if there is any relationship between them. Because sometimes, variables are highly correlated in such a way that they contain redundant information. So, in order to identify these correlations, we compute the covariance matrix.
   - Compute the Eigenvectors and Eigenvalues of the covariance matrix to identify the principal components
