@@ -96,6 +96,7 @@
 - How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
 - Hyrid recommendation system
 - How to measure the performance of recommendation system?
+- How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 <br></br>
 ### R Interview questions
