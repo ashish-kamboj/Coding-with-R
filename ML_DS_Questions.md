@@ -31,6 +31,12 @@
   - Compute the Eigenvectors and Eigenvalues of the covariance matrix to identify the principal components
   - Feature vector
   - Recast the data along the principal component axes
+
+- **Mathematics of Eigenvalues and Eigen vectors**
+  - A- XI (Where A is the matrix, x Is lambda, I is identity matrix)
+  - take the determinent of A-XI i.e. det(A-XI) = 0
+  - Solve of lambda, which wich will give the Eigen vaues
+  - Using Eigen values get the Eigen vector (having unit length)
   
 - **How PCA take cares of multicollinearity**
   - As Principle components are orthogonal to each other which helps in to get rid of multicollineraity
