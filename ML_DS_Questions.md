@@ -102,8 +102,12 @@
 - How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
 - Hyrid recommendation system
 - How to measure the performance of recommendation system?
+
 - **ALS (alternating Least Squares) for Collaborative Filtering (algorithm for recommendation)**
+  - ALS recommender is a matrix factorization algorithm that uses Alternating Least Squares with Weighted-Lamda-Regularization (ALS-WR). It factors the user to item matrix A into the user-to-feature matrix U and the item-to-feature matrix M: It runs the ALS algorithm in a parallel fashion. The ALS algorithm should uncover the latent factors that explain the observed user to item ratings and tries to find optimal factor weights to minimize the least squares between predicted and actual ratings.
+
 - **Alternating least squares algorithm (ALS)**
+
 - How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 <br></br>
