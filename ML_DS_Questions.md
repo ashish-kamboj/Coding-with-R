@@ -12,9 +12,15 @@
 - **Baye's Theorem**
   - Independent Events
   - Dependent Events
-  - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
+  -   - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
 					<br>OR</br>
 			                          P(B|A) = P(B∩A)/P(A)	
+  - Baye's Theorem :: P(A|B) = P(B|A)*P(A)/P(B)	
+		   P(A|B) = Posterior Probability
+		   P(B|A) = Likelihood
+		   P(A) = Prior probability
+		   P(B) = Marginal Probability
+	
 
 - **Covariance Vs Correlation**
   - **Covariance** - indicates the direction of the linear relationship between variable
