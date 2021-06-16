@@ -13,7 +13,7 @@
   - Independent Events
   - Dependent Events
   - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
-					                            OR
+					<br>OR</br>
 			                          P(B|A) = P(B∩A)/P(A)	
 
 - **Covariance Vs Correlation**
