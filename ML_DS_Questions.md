@@ -9,7 +9,7 @@
 
 - What is normal distribution
 
-- **Baye's Theorem**
+- **Baye's Theorem** [(here)](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
   - Independent Events
   - Dependent Events
   -   - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
