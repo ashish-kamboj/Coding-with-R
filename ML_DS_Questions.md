@@ -16,9 +16,9 @@
 					<br>OR</br>
 			                          P(B|A) = P(B∩A)/P(A)	
   - Baye's Theorem :: P(A|B) = P(B|A)*P(A)/P(B)	<br>
-		   P(A|B) = Posterior Probability
-		   P(B|A) = Likelihood
-		   P(A) = Prior probability
+		   P(A|B) = Posterior Probability <br>
+		   P(B|A) = Likelihood <br>
+		   P(A) = Prior probability <br>
 		   P(B) = Marginal Probability
 	
 
