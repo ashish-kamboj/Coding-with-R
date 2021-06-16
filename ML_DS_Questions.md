@@ -9,6 +9,13 @@
 
 - What is normal distribution
 
+- **Baye's Theorem**
+  - Independent Events
+  - Dependent Events
+  - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
+					                            OR
+			                          P(B|A) = P(B∩A)/P(A)	
+
 - **Covariance Vs Correlation**
   - **Covariance** - indicates the direction of the linear relationship between variable
   - **Correlation** - measures both the strength and direction of the linear relationship between two variables
