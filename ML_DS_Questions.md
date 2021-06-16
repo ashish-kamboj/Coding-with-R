@@ -15,7 +15,7 @@
   -   - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
 					<br>OR</br>
 			                          P(B|A) = P(B∩A)/P(A)	
-  - Baye's Theorem :: P(A|B) = P(B|A)*P(A)/P(B)	
+  - Baye's Theorem :: P(A|B) = P(B|A)*P(A)/P(B)	<br>
 		   P(A|B) = Posterior Probability
 		   P(B|A) = Likelihood
 		   P(A) = Prior probability
