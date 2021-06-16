@@ -116,6 +116,8 @@
 
 - **What is Gradient Descent**
   - Gradient descent is used to minimize the cost function or any other function
+
+- **What is the difference between Gradient Descent and Stochastic Gradient Descent?** [(here)](https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent#:~:text=In%20Gradient%20Descent%20or%20Batch,of%20training%20data%20per%20epoch)
   
 - Working of Gradient Descent
 - How to perform clustering on large dataset?
