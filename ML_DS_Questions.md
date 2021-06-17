@@ -136,6 +136,13 @@
 - **Alternating least squares algorithm (ALS)**
   - It holds one part of a model constant and doing OLS on the rest; then assuming the OLS coefficients and holding that part of the model constant to do OLS on the part of the model that was held constant the first time. The process is repeated until it converges. It's a way of breaking complex estimation or optimizations into linear pieces that can be used to iterate to an answer.
 
+- **Hyperparameters to tune in Logistic Regression**
+  - Logistic regression does not really have any critical hyperparameters to tune.
+    - Sometimes, you can see useful differences in performance or convergence with different solvers (solver).
+      - **solver** in [‘newton-cg’, ‘lbfgs’, ‘liblinear’, ‘sag’, ‘saga’]
+    - Regularization (penalty) can sometimes be helpful.
+      - **penalty** in [‘none’, ‘l1’, ‘l2’, ‘elasticnet’]
+
 - **Hyperparameters to tune in Random Forest**
   - **n_estimators** = number of trees in the foreset
   - **max_features** = max number of features considered for splitting a node
