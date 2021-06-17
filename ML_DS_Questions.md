@@ -136,6 +136,14 @@
 - **Alternating least squares algorithm (ALS)**
   - It holds one part of a model constant and doing OLS on the rest; then assuming the OLS coefficients and holding that part of the model constant to do OLS on the part of the model that was held constant the first time. The process is repeated until it converges. It's a way of breaking complex estimation or optimizations into linear pieces that can be used to iterate to an answer.
 
+- **Hyperparameters to tune in Random Forest**
+  - **n_estimators** = number of trees in the foreset
+  - **max_features** = max number of features considered for splitting a node
+  - **max_depth** = max number of levels in each decision tree
+  - **min_samples_split** = min number of data points placed in a node before the node is split
+  - **min_samples_leaf** = min number of data points allowed in a leaf node
+  - **bootstrap** = method for sampling data points (with or without replacement)
+
 - How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 <br></br>
