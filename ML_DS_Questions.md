@@ -144,6 +144,8 @@
   - **min_samples_leaf** = min number of data points allowed in a leaf node
   - **bootstrap** = method for sampling data points (with or without replacement)
 
+- **Hyperparameters to tune in XGBoost** [(here)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+
 - How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 <br></br>
