@@ -1,7 +1,7 @@
-##1. Difference between Statistical Modeling and Machine Learning
+## 1. Difference between Statistical Modeling and Machine Learning
 ---
 
-What is selection Bias?
+## 2. What is selection Bias?
 Selection Bias is a clinical trials is a result of the sample group not representing the entire target population.
 ---
 
