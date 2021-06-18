@@ -1,14 +1,14 @@
-## Questions
-
-**1. Difference between Statistical Modeling and Machine Learning**
+##1. Difference between Statistical Modeling and Machine Learning
 ---
 
-**2. What is selection Bias?**
-
+What is selection Bias?
 Selection Bias is a clinical trials is a result of the sample group not representing the entire target population.
 ---
-- **Probability vs Likelihood** [(here)](https://medium.com/swlh/probability-vs-likelihood-cdac534bf523)
-  - Probability is used to finding the chance of occurrence of a particular situation, whereas Likelihood is used to generally maximizing the chances of a particular situation to occur.
+
+## 3. Probability vs Likelihood [(here)](https://medium.com/swlh/probability-vs-likelihood-cdac534bf523)
+Probability is used to finding the chance of occurrence of a particular situation, whereas Likelihood is used to generally maximizing the chances of a particular situation to occur.
+
+---
 
 - What is normal distribution
 
