@@ -8,9 +8,9 @@ Probability is used to finding the chance of occurrence of a particular situatio
 
 ---
 
-- What is normal distribution
+### 4. What is normal distribution
 
-- **Baye's Theorem** [(here)](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+### 5. Baye's Theorem** [(here)](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
   - Independent Events
   - Dependent Events
   -   - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
@@ -21,19 +21,21 @@ Probability is used to finding the chance of occurrence of a particular situatio
 		   P(B|A) = Likelihood <br>
 		   P(A) = Prior probability <br>
 		   P(B) = Marginal Probability
-	
+---	
 
-- **Covariance Vs Correlation**
+### 6. Covariance Vs Correlation
   - **Covariance** - indicates the direction of the linear relationship between variable
   - **Correlation** - measures both the strength and direction of the linear relationship between two variables
   - correlation values are standardized whereas, covariance values are not
   - Covariance is affected by the change in scale, i.e. if all the value of one variable is multiplied by a constant and all the value of another variable are multiplied, by a similar or different constant, then the covariance is changed. As against this, correlation is not influenced by the change in scale.
   - Correlation is dimensionless, i.e. it is a unit-free measure of the relationship between variables. Unlike covariance, where the value is obtained by the product of the units of the two variables.
+---
 
-- Difference between Z-test, T-test and F-test
+### 7. Difference between Z-test, T-test and F-test
   - [Statistical Tests — When to use Which ?](https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740)
+---
 
-- Why do we take sum of square in Linear Regression?
+### 8. Why do we take sum of square in Linear Regression?
 - Difference betweence correlation and VIF
 - If two variables are correlated, How to decide which one to remove?
 
