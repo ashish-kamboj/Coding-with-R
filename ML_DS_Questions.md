@@ -141,7 +141,7 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
   - LR is more sensitive to outliers than SVM because the cost function of LR diverges faster than those of SVM.
   - Logistic Regression produces probabilistic values while SVM produces 1 or 0. So in a few words LR makes not absolute prediction and it does not assume data is enough to give a final decision. This maybe be good property when what we want is an estimation or we do not have high confidence into data.
   
-  **Note:**
+  > **_Note:_**
   - SVM tries to find the widest possible separating margin, while Logistic Regression optimizes the log likelihood function, with probabilities modeled by the sigmoid function.
   - SVM extends by using kernel tricks, transforming datasets into rich features space, so that complex problems can be still dealt with in the same “linear” fashion in the lifted hyper space.
 
@@ -161,9 +161,21 @@ Gradient descent is used to minimize the cost function or any other function
 ---
 
 ### 26. Working of Gradient Descent
+
+---
+
 ### 27. How to perform clustering on large dataset?
+
+---
+
 ### 28. How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
+
+---
+
 ### 29. Hyrid recommendation system
+
+---
+
 ### 30. How to measure the performance of recommendation system?
 
 ---
