@@ -8,11 +8,18 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 ---
 
 ### 3. Probability vs Likelihood [(here)](https://medium.com/swlh/probability-vs-likelihood-cdac534bf523)
-Probability is used to finding the chance of occurrence of a particular situation, whereas Likelihood is used to generally maximizing the chances of a particular situation to occur.
+  - Probability is used to finding the chance of occurrence of a particular situation, whereas Likelihood is used to generally maximizing the chances of a particular situation to occur.
+  - [What is the difference between “likelihood” and “probability”?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
+
+---
+
+### 4. Types of Distribution [(here)](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
 
 ---
 
 ### 4. What is normal distribution
+
+---
 
 ### 5. Baye's Theorem** [(here)](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
   - Independent Events
