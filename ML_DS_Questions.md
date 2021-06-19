@@ -73,6 +73,7 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction method that 
   - Compute the Eigenvectors and Eigenvalues of the covariance matrix to identify the principal components
   - Feature vector
   - Recast the data along the principal component axes
+  - [How to Calculate Principal Component Analysis (PCA) from Scratch in Python](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
 
 ---
 
@@ -234,9 +235,11 @@ It holds one part of a model constant and doing OLS on the rest; then assuming t
 
 ---
 <br></br>
-### R Interview questions
-- How to read multiple files in one command in R?
-- Difference between sapply(), lapply and tapply()
+
+---
+### Courses
+1. Google Machine Learning crash course [(here)](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
 
 
 
