@@ -160,16 +160,31 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
 
 ---
 
-### 23. Working of multiclass classification
+### 23. Logistic Regression Vs GLM 
+Logistic Regression is the special case of GLM with  `distribution type=Bernoulli` and `LinkFunction=Logit`. Below are the various linear models we can run by changing the **distribution type** and **LinkFunction**
+
+|Distribution Type    	  | LinkFunction | PredictFactor | ComponentModel     |
+|-------------------------|--------------|---------------|--------------------|
+|Normal                   | Identity     | Continuous    | Linear Regression  |
+|Normal                   | Identity     | Categorical   | Anal. of Variance  |
+|Normal                   | Identity     | Mixed         | Anal. of Covariance|
+|Bernoulli                | Logit        | Mixed         | Logistic Regression|
+|Poisson                  | Log          | Categorical   | Log-linear         |
+|Poisson                  | Log          | Mixed         | Poisson Regression |
+|Gamma(Positive ontinuous)| Log          | Mixed         | Gamma Regression   |
 
 ---
 
-### 24. What is Gradient Descent
+### 24. Working of multiclass classification
+
+---
+
+### 25. What is Gradient Descent
 Gradient descent is used to minimize the cost function or any other function
 
 ---
 
-### 25. What is the difference between Gradient Descent and Stochastic Gradient Descent? [(here)](https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent#:~:text=In%20Gradient%20Descent%20or%20Batch,of%20training%20data%20per%20epoch)
+### 26. What is the difference between Gradient Descent and Stochastic Gradient Descent? [(here)](https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent#:~:text=In%20Gradient%20Descent%20or%20Batch,of%20training%20data%20per%20epoch)
 
 ---
 
