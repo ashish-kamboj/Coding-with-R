@@ -48,8 +48,15 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 ---
 
 ### 8. Why do we take sum of square in Linear Regression?
-- Difference betweence correlation and VIF
-- If two variables are correlated, How to decide which one to remove?
+
+---
+
+### Difference betweence correlation and VIF
+
+---
+
+### If two variables are correlated, How to decide which one to remove?
+
 ---
 
 ### 9. How does Variance Inflation Factor(VIF) Work?
@@ -80,7 +87,7 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction method that 
 ### 13. Mathematics of Eigenvalues and Eigen vectors
   - A- XI (Where A is the matrix, X Is lambda, I is identity matrix)
   - take the determinent of A-XI i.e. det(A-XI) = 0
-  - Solve of lambda, which wich will give the Eigen vaues
+  - Solve of lambda, which wich will give the Eigen values
   - Using Eigen values get the Eigen vector (having unit length)
 
 ---
@@ -117,6 +124,8 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
    - Early stopping
    - Regularization
    - Ensembling
+
+---
 
 ### 18. How to explain gain and lift to business person?
 
