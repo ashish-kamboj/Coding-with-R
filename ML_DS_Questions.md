@@ -110,6 +110,14 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
 
 ---
 
+### 18. How to prevent overfitting [(here)](https://elitedatascience.com/overfitting-in-machine-learning)
+   - Cross-validation
+   - Train with more data
+   - Remove features
+   - Early stopping
+   - Regularization
+   - Ensembling
+
 ### 18. How to explain gain and lift to business person?
 
 ---
