@@ -1,19 +1,19 @@
-### 1. Difference between Statistical Modeling and Machine Learning
+### Q. Difference between Statistical Modeling and Machine Learning
 
 ---
 
-### 2. What is selection Bias?
+### Q. What is selection Bias?
 Selection Bias is a clinical trials is a result of the sample group not representing the entire target population.
 
 ---
 
-### 3. Probability vs Likelihood [(here)](https://medium.com/swlh/probability-vs-likelihood-cdac534bf523)
+### Q. Probability vs Likelihood [(here)](https://medium.com/swlh/probability-vs-likelihood-cdac534bf523)
   - Probability is used to finding the chance of occurrence of a particular situation, whereas Likelihood is used to generally maximizing the chances of a particular situation to occur.
   - [What is the difference between “likelihood” and “probability”?](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
 
 ---
 
-### 4. Types of Distribution [(here)](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
+### Q. Types of Distribution [(here)](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
 
 ---
 
@@ -208,6 +208,10 @@ Gradient descent is used to minimize the cost function or any other function
 ### 26. Working of Gradient Descent
 
 ---
+
+### Q. How to find optimal value of k (or number of clusters) in clustering
+ - Elbow method
+ - Silhouette coefficient 
 
 ### 27. How to perform clustering on large dataset?
 
