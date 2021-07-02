@@ -17,11 +17,11 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 
 ---
 
-### 4. What is normal distribution
+### Q. What is normal distribution
 
 ---
 
-### 5. Baye's Theorem** [(here)](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+### Q. Baye's Theorem** [(here)](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
   - Independent Events
   - Dependent Events
   -   - conditional Probability  :: P(A|B) = P(A∩B)/P(B)
@@ -34,7 +34,7 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 		   P(B) = Marginal Probability
 ---	
 
-### 6. Covariance Vs Correlation
+### Q. Covariance Vs Correlation
   - **Covariance** - indicates the direction of the linear relationship between variable
   - **Correlation** - measures both the strength and direction of the linear relationship between two variables
   - correlation values are standardized whereas, covariance values are not
@@ -42,29 +42,37 @@ Selection Bias is a clinical trials is a result of the sample group not represen
   - Correlation is dimensionless, i.e. it is a unit-free measure of the relationship between variables. Unlike covariance, where the value is obtained by the product of the units of the two variables.
 ---
 
-### 7. Difference between Z-test, T-test and F-test
+### Q. Difference between Z-test, T-test and F-test
   - [Statistical Tests — When to use Which ?](https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740)
   - [Hypothesis testing; z test, t-test. f-test](https://www.slideshare.net/shakehandwithlife/hypothesis-testing-z-test-ttest-ftest)
 ---
 
-### 8. Why do we take sum of square in Linear Regression?
+### Q. Techniques for features or variable selection
+ - **Univariate Selection** - Statistical tests can be used to select those features that have the strongest relationship with the output variable.  For example the **ANOVA F-value** method is appropriate for numerical inputs and categorical data, as we see in the Pima dataset. This can be used via the **f_classif()** function in  **SelectKBest** class of scikit-learn library library that can be used with a suite of different statistical tests to select a specific number of features.
+ - **Recursive Feature Elimination** - The Recursive Feature Elimination (or RFE) works by recursively removing attributes and building a model on those attributes that remain.It uses the model accuracy to identify which attributes (and combination of attributes) contribute the most to predicting the target attribute.
+ - **Principal Component Analysis** - Principal Component Analysis (or PCA) uses linear algebra to transform the dataset into a compressed form.
+ - **Feature Importance** - Bagged decision trees like Random Forest and Extra Trees can be used to estimate the importance of features.
 
 ---
 
-### Difference betweence correlation and VIF
+### Q. Why do we take sum of square in Linear Regression?
 
 ---
 
-### If two variables are correlated, How to decide which one to remove?
+### Q. Difference betweence correlation and VIF
 
 ---
 
-### 9. How does Variance Inflation Factor(VIF) Work?
+### Q. If two variables are correlated, How to decide which one to remove?
+
+---
+
+### Q. How does Variance Inflation Factor(VIF) Work?
 Regress each of the independent varables w.r.t rest of the independent variables in the model and calculate the R2 for each. Using R2 we can calculate the VIF of each variable i.e. VIF=1/(1-R2). Higher R2 value of independent variable corresponds to the high correlation, means the variable need to be removed.
 
 ---
 
-### 10. Effect of Multicollinearity
+### Q. Effect of Multicollinearity
 Moderate multicollinearity may not be problematic. However, severe multicollinearity is a problem because it can increase the variance of the coefficient estimates and make the estimates very sensitive to minor changes in the model. The result is that the coefficient estimates are unstable and difficult to interpret. Multicollinearity saps the statistical power of the analysis, can cause the coefficients to switch signs, and makes it more difficult to specify the correct model.
 
 ---
