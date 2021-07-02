@@ -55,6 +55,16 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 
 ---
 
+### Q. Dimensionality Reduction algorithms
+ - Principal Component Analysis
+ - Singular Value Decomposition
+ - Linear Discriminant Analysis
+ - Isomap Embedding
+ - Locally Linear Embedding
+ - Modified Locally Linear Embedding
+
+---
+
 ### Q. Why do we take sum of square in Linear Regression?
 
 ---
@@ -77,12 +87,12 @@ Moderate multicollinearity may not be problematic. However, severe multicollinea
 
 ---
 
-### 11. What is PCA?
+### Q. What is PCA?
 Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
 
 ---
 
-### 12. How does Principal Component Analysis(PCA) works? [(here)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+### Q. How does Principal Component Analysis(PCA) works? [(here)](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
   - Standardization - standardize the range of the continuous initial variables so that each one of them contributes equally to the analysis.
   - Covariance Matrix computation - to understand how the variables of the input data set are varying from the mean with respect to each other, or in other words, to see if there is any relationship between them. Because sometimes, variables are highly correlated in such a way that they contain redundant information. So, in order to identify these correlations, we compute the covariance matrix.
   - Compute the Eigenvectors and Eigenvalues of the covariance matrix to identify the principal components
@@ -92,7 +102,7 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction method that 
 
 ---
 
-### 13. Mathematics of Eigenvalues and Eigen vectors
+### Q. Mathematics of Eigenvalues and Eigen vectors
   - A- XI (Where A is the matrix, X Is lambda, I is identity matrix)
   - take the determinent of A-XI i.e. det(A-XI) = 0
   - Solve of lambda, which wich will give the Eigen values
@@ -100,21 +110,21 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction method that 
 
 ---
 
-### 14. How PCA take cares of multicollinearity**
+### Q. How PCA take cares of multicollinearity**
 As Principle components are orthogonal to each other which helps in to get rid of multicollineraity
 
 ---
 
-### 15. Why the Principal components are othogonal to each other?
+### Q. Why the Principal components are othogonal to each other?
 Though each principal components are orthogonal (i.e. prevents multicollinearity) but still in principal components we have correlated variables. Do we not have to remove those?
 
 ---
 
-### 16. Difference between PCA and Random Forest for feature selection.
+### Q. Difference between PCA and Random Forest for feature selection.
 
 ---
 
-### 17. How can we overcome Overfitting in a Regression Model?**
+### Q. How can we overcome Overfitting in a Regression Model?**
   - Reduce the model complexity
   - Regularization
     - **Ridge Regression(L2 Regularization)**
@@ -125,7 +135,7 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
 
 ---
 
-### 18. How to prevent overfitting [(here)](https://elitedatascience.com/overfitting-in-machine-learning)
+### Q. How to prevent overfitting [(here)](https://elitedatascience.com/overfitting-in-machine-learning)
    - Cross-validation
    - Train with more data
    - Remove features
@@ -135,15 +145,15 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
 
 ---
 
-### 18. How to explain gain and lift to business person?
+### Q. How to explain gain and lift to business person?
 
 ---
 
-### 19. How you will define Precision
+### Q. How you will define Precision
 
 ---
 
-### 20. How to handle class imbalance problem?
+### Q. How to handle class imbalance problem?
   - Get more data
   - Try different performance matrix
     - Confusion Matrix
@@ -166,13 +176,13 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
 
 ---
 
-### 21. What are the shortcomings of ROC AUC curve?**
+### Q. What are the shortcomings of ROC AUC curve?**
   - https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve
   - https://stats.stackexchange.com/questions/193138/roc-curve-drawbacks
 
 ---
 
-### 22. When to use Logistic Regression vs SVM? or Differences between Logistic Regression and SVM**
+### Q. When to use Logistic Regression vs SVM? or Differences between Logistic Regression and SVM**
   - Logistic loss diverges faster than hinge loss. So, in general, it will be more sensitive to outliers.
   - Logistic loss does not go to zero even if the point is classified sufficiently confidently. This might lead to minor degradation in accuracy.
   - SVM try to maximize the margin between the closest support vectors while LR the posterior class probability. Thus, SVM find a solution which is as fare as possible for the two categories while LR has not this property.
@@ -185,7 +195,7 @@ Though each principal components are orthogonal (i.e. prevents multicollinearity
 
 ---
 
-### 23. Logistic Regression Vs GLM 
+### Q. Logistic Regression Vs GLM 
 Logistic Regression is the special case of GLM with  `distribution type=Bernoulli` and `LinkFunction=Logit`. Below are the various linear models we can run by changing the **distribution type** and **LinkFunction**
 
 |Distribution Type    	  | LinkFunction | PredictFactor | ComponentModel     |
@@ -200,20 +210,20 @@ Logistic Regression is the special case of GLM with  `distribution type=Bernoull
 
 ---
 
-### 24. Working of multiclass classification
+### Q. Working of multiclass classification
 
 ---
 
-### 25. What is Gradient Descent
+### Q. What is Gradient Descent
 Gradient descent is used to minimize the cost function or any other function
 
 ---
 
-### 26. What is the difference between Gradient Descent and Stochastic Gradient Descent? [(here)](https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent#:~:text=In%20Gradient%20Descent%20or%20Batch,of%20training%20data%20per%20epoch)
+### Q. What is the difference between Gradient Descent and Stochastic Gradient Descent? [(here)](https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent#:~:text=In%20Gradient%20Descent%20or%20Batch,of%20training%20data%20per%20epoch)
 
 ---
 
-### 26. Working of Gradient Descent
+### Q. Working of Gradient Descent
 
 ---
 
@@ -221,23 +231,25 @@ Gradient descent is used to minimize the cost function or any other function
  - Elbow method
  - Silhouette coefficient 
 
-### 27. How to perform clustering on large dataset?
+---
+
+### Q. How to perform clustering on large dataset?
 
 ---
 
-### 28. How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
+### Q. How the recommendation system work if I don't like/dislike the any movies (in case of Netflix), just simply watch the movies there then, How the rating will be given (means the User vector is defined)?
 
 ---
 
-### 29. Hyrid recommendation system
+### Q. Hyrid recommendation system
 
 ---
 
-### 30. How to measure the performance of recommendation system?
+### Q. How to measure the performance of recommendation system?
 
 ---
 
-### 31. ALS (alternating Least Squares) for Collaborative Filtering (algorithm for recommendation)
+### Q. ALS (alternating Least Squares) for Collaborative Filtering (algorithm for recommendation)
   - ALS recommender is a matrix factorization algorithm that uses Alternating Least Squares with Weighted-Lamda-Regularization (ALS-WR). It factors the user to item matrix A into the user-to-feature matrix U and the item-to-feature matrix M: It runs the ALS algorithm in a parallel fashion. The ALS algorithm should uncover the latent factors that explain the observed user to item ratings and tries to find optimal factor weights to minimize the least squares between predicted and actual ratings.
   - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
   - [Prototyping a Recommender System Step by Step Part 2: Alternating Least Square (ALS) Matrix Factorization in Collaborative Filtering](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1)
@@ -247,12 +259,12 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
-### 32. Alternating least squares algorithm (ALS)**
+### Q. Alternating least squares algorithm (ALS)**
 It holds one part of a model constant and doing OLS on the rest; then assuming the OLS coefficients and holding that part of the model constant to do OLS on the part of the model that was held constant the first time. The process is repeated until it converges. It's a way of breaking complex estimation or optimizations into linear pieces that can be used to iterate to an answer.
 
 ---
 
-### 33. Hyperparameters to tune in Logistic Regression**
+### Q. Hyperparameters to tune in Logistic Regression**
   - Logistic regression does not really have any critical hyperparameters to tune.
     - Sometimes, you can see useful differences in performance or convergence with different solvers (solver).
       - **solver** in [‘newton-cg’, ‘lbfgs’, ‘liblinear’, ‘sag’, ‘saga’]
@@ -261,7 +273,7 @@ It holds one part of a model constant and doing OLS on the rest; then assuming t
 
 ---
 
-### 34. Hyperparameters to tune in Random Forest**
+### Q. Hyperparameters to tune in Random Forest**
   - **n_estimators** = number of trees in the foreset
   - **max_features** = max number of features considered for splitting a node
   - **max_depth** = max number of levels in each decision tree
@@ -271,11 +283,11 @@ It holds one part of a model constant and doing OLS on the rest; then assuming t
 
 ---
 
-### 35. Hyperparameters to tune in XGBoost** [(here)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+### Q. Hyperparameters to tune in XGBoost** [(here)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 ---
 
-### 36. How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
+### Q. How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 ---
 <br></br>
