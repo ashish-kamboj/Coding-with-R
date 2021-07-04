@@ -47,6 +47,16 @@ Selection Bias is a clinical trials is a result of the sample group not represen
   - [Hypothesis testing; z test, t-test. f-test](https://www.slideshare.net/shakehandwithlife/hypothesis-testing-z-test-ttest-ftest)
 ---
 
+### Q. Missing Values Imputation
+ - Do Nothing
+ - Imputation Using (Mean/Median) Values
+ - Imputation Using (Most Frequent) or (Zero/Constant) Values
+ - Imputation Using k-NN
+ - Imputation Using Multivariate Imputation by Chained Equation (MICE)
+ - Imputation Using Deep Learning (Datawig)
+
+---
+
 ### Q. Techniques for features or variable selection
  - **Univariate Selection** - Statistical tests can be used to select those features that have the strongest relationship with the output variable.  For example the **ANOVA F-value** method is appropriate for numerical inputs and categorical data, as we see in the Pima dataset. This can be used via the **f_classif()** function in  **SelectKBest** class of scikit-learn library library that can be used with a suite of different statistical tests to select a specific number of features.
  - **Recursive Feature Elimination** - The Recursive Feature Elimination (or RFE) works by recursively removing attributes and building a model on those attributes that remain.It uses the model accuracy to identify which attributes (and combination of attributes) contribute the most to predicting the target attribute.
