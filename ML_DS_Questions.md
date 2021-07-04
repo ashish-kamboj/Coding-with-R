@@ -237,6 +237,15 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
+### Q. Algorithms for clustering
+ - **K-Means** - For datasets having numerical variables
+ - **Hierarchical clustering**
+ - **K-Mode** - For datasets having categorical variables
+ - **k-Prototype** - It combines the k-modes and k-means algorithms and is able to cluster mixed numerical and categorical variables
+ - **PAM (Partitioning Around Medoids) or K-Medoids** - For datasets having both numerical and categorical variables
+
+---
+
 ### Q. How to find optimal value of k (or number of clusters) in clustering
  - Elbow method
  - Silhouette coefficient 
