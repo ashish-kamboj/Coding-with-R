@@ -239,6 +239,7 @@ Gradient descent is used to minimize the cost function or any other function
 
 ### Q. Algorithms for clustering
  - **K-Means** - For datasets having numerical variables
+ - **Mini-Batch K-Means** - Mini-Batch K-Means is a modified version of k-means that makes updates to the cluster centroids using mini-batches of samples rather than the entire dataset, which can make it faster for large datasets, and perhaps more robust to statistical noise.
  - **Hierarchical clustering**
  - **K-Mode** - For datasets having categorical variables
  - **k-Prototype** - It combines the k-modes and k-means algorithms and is able to cluster mixed numerical and categorical variables
