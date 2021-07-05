@@ -253,6 +253,11 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
+### Q. How will you check if the segmenting is good or whether you need to use different factors for segmenting(K-Means)?
+One really easy way is to see if the .are logically correct. For example, we can check if states in a similar geography and economic situation are clustered together or not. You can also run hypothesis test to check whether the population of different clusters is significantly different or not, If you look at the data, you can see that some specific customers or some specific states should be grouped together.
+
+---
+
 ### Q. How to perform clustering on large dataset?
 
 ---
