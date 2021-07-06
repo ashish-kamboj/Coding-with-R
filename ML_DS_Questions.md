@@ -258,6 +258,11 @@ One really easy way is to see if the .are logically correct. For example, we can
 
 ---
 
+### Q. What are the benefits of Hierarchical Clustering over K-Means clustering? What are the disadvantages?
+Hierarchical clustering generally produces better clusters, but is more computationallyintensive.
+
+---
+
 ### Q. How to perform clustering on large dataset?
 
 ---
