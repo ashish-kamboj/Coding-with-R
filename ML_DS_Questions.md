@@ -253,6 +253,12 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
+### Q. Evaluation metrics for measuring the effectiveness of clusters formed
+ - Dunn Index
+ - Silhouette analysis
+
+---
+
 ### Q. How to compute the mean Silhouette Coefficient of all samples?
 **Silhouette** refers to a method of interpretation and validation of consistency within clusters of data
 
