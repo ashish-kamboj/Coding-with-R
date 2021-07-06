@@ -237,6 +237,12 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
+### Q. Distance Measures [(here)](https://machinelearningmastery.com/distance-measures-for-machine-learning/)
+ - Hamming Distance
+ - Euclidean Distance
+ - Manhattan Distance (Taxicab or City Block)
+ - Minkowski Distance
+
 ### Q. Algorithms for clustering
  - **K-Means** - For datasets having numerical variables
  - **Mini-Batch K-Means** - Mini-Batch K-Means is a modified version of k-means that makes updates to the cluster centroids using mini-batches of samples rather than the entire dataset, which can make it faster for large datasets, and perhaps more robust to statistical noise.
