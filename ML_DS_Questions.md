@@ -247,9 +247,14 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
-### Q. How to find optimal value of k (or number of clusters) in clustering
+### Q. How to find optimal value of k (or number of clusters) in clustering?
  - Elbow method
  - Silhouette coefficient 
+
+---
+
+### Q. How to compute the mean Silhouette Coefficient of all samples?
+The Silhouette Coefficient is calculated using the mean intra-cluster distance (a) and the mean nearest-cluster distance (b) for each sample. The Silhouette Coefficient for a sample is (b - a) / max(a, b). To clarify, b is the distance between a sample and the nearest cluster that the sample is not a part of. Note that Silhouette Coefficient is only defined if number of labels is 2 <= n_labels <= n_samples - 1.
 
 ---
 
