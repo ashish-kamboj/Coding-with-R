@@ -263,6 +263,10 @@ Hierarchical clustering generally produces better clusters, but is more computat
 
 ---
 
+### Q. How to calculate Gower’s Distance using Python [(here)](https://medium.com/analytics-vidhya/concept-of-gowers-distance-and-it-s-application-using-python-b08cf6139ac2)
+
+---
+
 ### Q. How to perform clustering on large dataset?
 
 ---
