@@ -346,6 +346,10 @@ It holds one part of a model constant and doing OLS on the rest; then assuming t
 
 ---
 
+### Q. How Parallelization works in XGBoost giving that boosting technique build models sequentially?
+
+---
+
 ### Q. How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 ---
