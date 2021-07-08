@@ -239,6 +239,12 @@ Gradient descent is used to minimize the cost function or any other function
 
 ### Working of Gradient Boosting Machines(GBM)
 
+Gradient Boost For Regression:
+==============================
+1. We start with a leaf that is the average value of the variable we want to predict
+2. Then we add tree based on the residuals, the difference between the observed values and the predicted values and we scale the tree's contribution to the final Prediction with a Learning Rate
+3. Then we add another tree based on the new residuals and we keep on adding trees based on the errors made by the previous trees
+
 ---
 
 ### Q. Distance Measures [(here)](https://machinelearningmastery.com/distance-measures-for-machine-learning/)
