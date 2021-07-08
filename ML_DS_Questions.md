@@ -239,11 +239,25 @@ Gradient descent is used to minimize the cost function or any other function
 
 ### Working of Gradient Boosting Machines(GBM)
 
-Gradient Boost For Regression:
-==============================
+#### Gradient Boost For Regression:
+==================================
 1. We start with a leaf that is the average value of the variable we want to predict
 2. Then we add tree based on the residuals, the difference between the observed values and the predicted values and we scale the tree's contribution to the final Prediction with a Learning Rate
 3. Then we add another tree based on the new residuals and we keep on adding trees based on the errors made by the previous trees
+
+
+#### Gradient Boost For Classification:
+======================================
+1. In Gradient Boost for Classification, the initial Prediction for every individual is the log(odds). I like to think of thr log(odds) as the Logistic Regression equivalent of average
+2. Convert log(odds) in to probability using Logistic Function (e^log(odds)/1^e6log(odds)) and this will be the initial prediction/probability for all the records
+3. Then calculate the Residuals(to measure how bad the prediction is), difference between Observed and the predicted values, Residual = (Observed - Predicted)
+4. Then we add tree based on the residuals and calculate the output values for the leaves and tranform in to probablities using (sum of all the Residuals in the leaf/sum of (previous probability*(1-previous probability)))
+	- Calculate the log(odds) prediction = previous prediction + output value from the tree scaled by the learning rate
+	- Then conversts the log(odds) prediction to probability
+	- Do above 2 steps for all the records
+	- Then repeat the steps 3 and 4 until we get the optimized predictions
+
+Note: we can limit the number of leaves allows in a tree
 
 ---
 
