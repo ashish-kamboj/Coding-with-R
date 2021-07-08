@@ -237,6 +237,10 @@ Gradient descent is used to minimize the cost function or any other function
 
 ---
 
+### Working of Gradient Boosting Machines(GBM)
+
+---
+
 ### Q. Distance Measures [(here)](https://machinelearningmastery.com/distance-measures-for-machine-learning/)
  - Hamming Distance
  - Euclidean Distance
