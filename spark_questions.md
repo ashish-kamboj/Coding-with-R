@@ -22,6 +22,7 @@ parquet is having default snappy compression
 ### Q. Pandas Vs Spark [(here)](https://towardsdatascience.com/stop-using-pandas-and-start-using-spark-with-scala-f7364077c2e0)
  - By default, Spark is multi-threaded whereas Pandas is single-threaded
  - Spark code can be executed in a distributed way, on a Spark Cluster, whereas Pandas runs on a single machine
+ - Spark DataFrame assures you fault tolerance (It's resilient) & pandas DataFrame does not assure it. -> Hence if your data processing got interrupted/failed in between processing then spark can regenerate the failed result set from lineage (from DAG) . Fault tolerance is not supported in Pandas. You need to implement your own framework to assure it.
  - Spark is lazy, which means it will only execute when you collect (ie. when you actually need to return something), and in the meantime it builds up an execution plan and finds the optimal way to execute your code
  - This differs to Pandas, which is eager, and executes each step as it reaches it
  - Spark is also less likely to run out of memory as it will start using disk when it reaches its memory limit
