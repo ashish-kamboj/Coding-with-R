@@ -19,7 +19,7 @@ parquet is having default snappy compression
 
 ---
 
-### Q. Pandas Vs [(here)](https://towardsdatascience.com/stop-using-pandas-and-start-using-spark-with-scala-f7364077c2e0)
+### Q. Pandas Vs Spark [(here)](https://towardsdatascience.com/stop-using-pandas-and-start-using-spark-with-scala-f7364077c2e0)
  - By default, Spark is multi-threaded whereas Pandas is single-threaded
  - Spark code can be executed in a distributed way, on a Spark Cluster, whereas Pandas runs on a single machine
  - Spark is lazy, which means it will only execute when you collect (ie. when you actually need to return something), and in the meantime it builds up an execution plan and finds the optimal way to execute your code
