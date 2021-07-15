@@ -247,7 +247,7 @@ Gradient descent is used to minimize the cost function or any other function
 
 #### <ins>Gradient Boost For Classification</ins>
 1. In Gradient Boost for Classification, the initial Prediction for every individual is the log(odds). I like to think of thr log(odds) as the Logistic Regression equivalent of average
-2. Convert log(odds) in to probability using Logistic Function (e^log(odds)/1^e6log(odds)) and this will be the initial prediction/probability for all the records
+2. Convert log(odds) in to probability using Logistic Function (e^log(odds)/1+e^log(odds)) and this will be the initial prediction/probability for all the records
 3. Then calculate the Residuals(to measure how bad the prediction is), difference between Observed and the predicted values, Residual = (Observed - Predicted)
 4. Then we add tree based on the residuals and calculate the output values for the leaves and tranform in to probablities using (sum of all the Residuals in the leaf/sum of (previous probability*(1-previous probability)))
 	- Calculate the log(odds) prediction = previous prediction + output value from the tree scaled by the learning rate
