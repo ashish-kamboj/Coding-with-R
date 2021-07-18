@@ -7,3 +7,7 @@
 ---
 
 ### Q. What are decorator
+
+---
+
+### Q. Difference between loc and iloc
