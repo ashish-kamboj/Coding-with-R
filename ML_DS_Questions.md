@@ -57,7 +57,7 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 
 ---
 
-### Q. When to use meand and median Imputation?
+### Q. When to use mean and median Imputation?
 
 ---
 
@@ -87,7 +87,7 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 
 ---
 
-### Q. Difference betweence correlation and VIF
+### Q. Difference betweence correlation and collinearity
 
 ---
 
@@ -311,7 +311,7 @@ The Silhouette Coefficient is calculated using the mean intra-cluster distance (
 ---
 
 ### Q. How will you check if the segmenting is good or whether you need to use different factors for segmenting(K-Means)?
-One really easy way is to see if the .are logically correct. For example, we can check if states in a similar geography and economic situation are clustered together or not. You can also run hypothesis test to check whether the population of different clusters is significantly different or not, If you look at the data, you can see that some specific customers or some specific states should be grouped together.
+Through Silhouette analysis
 
 ---
 
