@@ -57,6 +57,10 @@ Selection Bias is a clinical trials is a result of the sample group not represen
 
 ---
 
+### Q. When to use meand and median Imputation?
+
+---
+
 ### Q. Techniques for features or variable selection
  - **Univariate Selection** - Statistical tests can be used to select those features that have the strongest relationship with the output variable.  For example the **ANOVA F-value** method is appropriate for numerical inputs and categorical data, as we see in the Pima dataset. This can be used via the **f_classif()** function in  **SelectKBest** class of scikit-learn library library that can be used with a suite of different statistical tests to select a specific number of features.
  - **Recursive Feature Elimination** - The Recursive Feature Elimination (or RFE) works by recursively removing attributes and building a model on those attributes that remain.It uses the model accuracy to identify which attributes (and combination of attributes) contribute the most to predicting the target attribute.
@@ -72,6 +76,10 @@ Selection Bias is a clinical trials is a result of the sample group not represen
  - Isomap Embedding
  - Locally Linear Embedding
  - Modified Locally Linear Embedding
+
+---
+
+### Q. Can we use Linear Regression for classification problem?
 
 ---
 
@@ -265,6 +273,8 @@ Gradient descent is used to minimize the cost function or any other function
  - Manhattan Distance (Taxicab or City Block)
  - Minkowski Distance
 
+---
+
 ### Q. Algorithms for clustering
  - **K-Means** - For datasets having numerical variables
  - **Mini-Batch K-Means** - Mini-Batch K-Means is a modified version of k-means that makes updates to the cluster centroids using mini-batches of samples rather than the entire dataset, which can make it faster for large datasets, and perhaps more robust to statistical noise.
@@ -375,6 +385,15 @@ It holds one part of a model constant and doing OLS on the rest; then assuming t
 ### Q. How to visualize the data pattern in dataset having large number of featues (Know this will help in type of algorithm to fit)?
 
 ---
+
+### Q. Difference between Gridsearch and Random search
+
+---
+
+### Q. How to choose value of k in k-fold cross validation
+
+---
+
 <br></br>
 
 ---
